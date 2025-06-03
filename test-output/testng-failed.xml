@@ -5,8 +5,7 @@
     <classes>
       <class name="selinium.Login">
         <methods>
-          <include name="sub"/>
-          <include name="pass"/>
+          <include name="use"/>
           <include name="setup"/>
         </methods>
       </class> <!-- selinium.Login -->
